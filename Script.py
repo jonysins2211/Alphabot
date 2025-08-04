@@ -216,9 +216,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
 
 
-    CAPTION = """{file_caption}
-
-<b>⚡ JOIN [MOVIE LOVERZZ](https://t.me/Movie_loverzz) ⚡</b>"""
+    CAPTION = """<b><a href="https://t.me/Movie_loverzz">{file_caption}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/Movie_loverzz>[Movie_Loverzz]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
