@@ -217,7 +217,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
 
 
-    CUSTOM_FILE_CAPTION = """{file_caption}
+    CAPTION = """{file_caption}
 
 <b>⚡ JOIN [MOVIE LOVERZZ](https://t.me/Movie_loverzz) ⚡</b>"""
 
